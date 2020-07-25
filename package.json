@@ -1,0 +1,26 @@
+{
+  "name": "team-info",
+  "version": "1.0.0",
+  "description": "App to create webpage with employee team info",
+  "main": "Index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonmcguire1992/team-info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonmcguire1992/team-info/issues"
+  },
+  "homepage": "https://github.com/brandonmcguire1992/team-info#readme"
+}
