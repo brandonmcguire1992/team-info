@@ -19,7 +19,7 @@
   ## Usage
   Run node Index to run the application and answer all the prompted questions. Once all questions have been completed, the index.html will be completed and ready to view in the browser.
 
-  <iframe src="https://drive.google.com/file/d/1PaYoC6-TMHs8z7fvNw7G0s3gvceG4E3v/preview" width="640" height="480"></iframe>
+  "https://drive.google.com/file/d/1PaYoC6-TMHs8z7fvNw7G0s3gvceG4E3v/preview"
 
   ## License 
   This project is covered under the MIT license 
