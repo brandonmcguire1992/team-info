@@ -6,9 +6,7 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {
-    "inquirer": "^7.3.3"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "jest"
@@ -17,8 +15,8 @@
     "type": "git",
     "url": "git+https://github.com/brandonmcguire1992/team-info.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Brandon McGuire",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/brandonmcguire1992/team-info/issues"
   },
